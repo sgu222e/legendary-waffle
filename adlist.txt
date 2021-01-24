@@ -29,3 +29,6 @@ deviantart.com
 www.deviantart.com
 spotify.com
 www.spotify.com
+(\.|^)wattpad\.com$
+(\.|^)tumblr\.com$
+(\.|^)ezcosplay\.com$
